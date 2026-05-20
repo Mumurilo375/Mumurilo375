@@ -71,6 +71,5 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mumurilo375&theme=dark" alt="Mumurilo375 Streak" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Mumurilo375&show_icons=true&theme=dark" alt="Status Geral do Perfil" height="165" />
+  <img src="https://raw.githubusercontent.com/Mumurilo375/Mumurilo375/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
