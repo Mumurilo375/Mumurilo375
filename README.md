@@ -70,8 +70,7 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-<!-- Gráfico de Commits que você já tem -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mumurilo375&theme=dark" alt="Mumurilo375" /></p>
-
-<!-- Gráfico de Linguagens Mais Usadas -->
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumurilo375&layout=compact&theme=dark" alt="Linguagens mais usadas" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mumurilo375&theme=dark" alt="Mumurilo375 Streak" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumurilo375&layout=compact&theme=dark" alt="Linguagens mais usadas" height="165" />
+</p>
