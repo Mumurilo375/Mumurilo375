@@ -1,4 +1,4 @@
-# Hi 👋, I'm Murilo Pereira Macedo
+# Murilo Pereira Macedo
 
 ## Desenvolvedor Full-Stack | Foco em Back-End & APIs
 
