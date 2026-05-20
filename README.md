@@ -1,45 +1,41 @@
 # Hi 👋, I'm Murilo Pereira Macedo
 
-## Desenvolvedor Full-Stack | Foco em Back-End & Arquitetura
+## Desenvolvedor Full-Stack | Foco em Back-End & APIs
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor com forte inclinação para o desenvolvimento de Back-End. Tenho facilidade e preferência por trabalhar com lógica de programação, estruturação de bancos de dados relacionais, criação de APIs RESTful e segurança. 
+Sou estudante de Análise e Desenvolvimento de Sistemas. Meu foco principal é no Back-End: curto quebrar a cabeça com lógica, estruturar bancos de dados, criar APIs RESTful e mexer com segurança e infraestrutura.
 
-Atualmente, busco minha primeira oportunidade de **Estágio ou Trainee** para aplicar esse conhecimento em ambientes de produção e evoluir com o time.
+Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para evoluir com o time e colocar meus projetos em produção.
 
 ---
 
 ## 🛠️ Projetos em Destaque
 
-Aqui estão os principais sistemas que desenvolvi (academicamente e para o mercado real), onde apliquei conceitos de arquitetura, segurança e gerenciamento de estado:
-
 ### 💼 JamVal-App
 > **Stack:** React, TypeScript, Node.js, PostgreSQL, Supabase, Vercel
-*   **O que é:** Aplicação Full-Stack real desenvolvida para o controle de vendas consignadas de um negócio familiar.
-*   **Desafios Resolvidos:** Criação de um ecossistema completo com controle de estoque, fluxo de visitas a clientes, gestão de valores a receber e geração de comprovantes em PDF, além de um dashboard financeiro integrado.
+*   App real para controle de vendas consignadas de um negócio familiar.
+*   Resolve o fluxo de estoque, visitas a clientes, acertos financeiros, valores a receber e gera comprovantes em PDF.
 
 ### 🎨 Scrapbook Digital *(Em Desenvolvimento)*
 > **Stack:** Laravel, React, TypeScript, PostgreSQL, Filament
-*   **O que é:** Plataforma robusta para criação, customização e venda de scrapbooks digitais personalizados.
-*   **Desafios Resolvidos:** Implementação de um editor visual integrado ao front-end, fluxo de upload de mídias, painel administrativo completo via Filament e infraestrutura preparada para checkout interno.
+*   Plataforma completa para criação e venda de scrapbooks digitais personalizados.
+*   Conta com editor visual no front-end, upload de mídias, painel administrativo e checkout.
 
 ### 🎮 Nexus Store
-> **Stack:** React, TypeScript, Node.js, Express, PostgreSQL, Docker *(Próxima Implementação)*
-*   **O que é:** Sistema web inspirado em uma loja de chaves (keys) de jogos eletrônicos.
-*   **Desafios Resolvidos:** Construção de uma API REST do zero com autenticação robusta via JWT, proteção de endpoints confidenciais e CRUDs administrativos para controle de estoque de chaves e categorias.
-*   **Foco Atual:** O projeto está recebendo uma camada de infraestrutura com Docker e auditoria de segurança para o trimestre atual da faculdade.
+> **Stack:** React, TypeScript, Node.js, Express, PostgreSQL | *Docker em breve*
+*   E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
+*   **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
 
 ### 🍷 Reserva Santanna
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
-*   **O que é:** Marketplace acadêmico focado no nicho de vinhos, desenvolvido em formato de equipe.
-*   **Desafios Resolvidos:** Atuei diretamente na construção da área administrativa, integração com APIs externas, exibição de gráficos/KPIs de desempenho no dashboard e isolamento do ambiente utilizando Docker.
+*   Marketplace acadêmico de vinhos desenvolvido em equipe.
+*   Atuei direto na área administrativa, integração com APIs, dashboard com gráficos e ambiente Docker.
 
 ---
 
 ## 💬 Fale comigo sobre:
-*   Construção de APIs com **Node.js (Express)** e **Laravel (PHP)**
-*   Modelagem de dados relacionais com **PostgreSQL** e **MySQL**
-*   Segurança básica, autenticação e proteção de rotas (JWT)
-*   Containerização de ambientes com **Docker**
+*   Construção de APIs com **Node.js** e **Laravel**
+*   Modelagem de dados com **PostgreSQL** e **MySQL**
+*   Autenticação e proteção de rotas (JWT) e **Docker**
 
 ---
 
@@ -61,6 +57,7 @@ Aqui estão os principais sistemas que desenvolvi (academicamente e para o merca
 <a href="https://developer.mozilla.org/en-US/docs/Web/jest" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
+<br><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> 
