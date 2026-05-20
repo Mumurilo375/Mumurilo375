@@ -72,5 +72,5 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mumurilo375&theme=dark" alt="Mumurilo375 Streak" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumurilo375&layout=compact&theme=dark" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Mumurilo375&layout=compact&theme=dark" alt="Linguagens mais usadas" height="165" />
 </p>
