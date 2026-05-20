@@ -1,14 +1,26 @@
 # Hi 👋, I'm Murilo Pereira Macedo
 
-### Desenvolvedor Full-Stack
+## Desenvolvedor Full-Stack
 
-- 🔭 **Projetos atuais:** Desenvolvendo o *Scrapbook Digital*, refatorando o *Jamval App* e aplicando Docker e segurança na *Nexus Store*.
-- 🌱 **Estudando no momento:** Docker, Node.js, React, Laravel, PostgreSQL e Cybersecurity.
-- 👯 **Objetivo:** Buscando minha primeira oportunidade de estágio ou trainee em desenvolvimento de software.
-- 🤝 **Foco de colaboração:** Implementações lógicas e arquitetura de Back-end.
-- 💬 **Fale comigo sobre:** TypeScript, Node.js, PostgreSQL, Laravel e React.
-- 📫 **Contato:** murilopm44@gmail.com
-- ⚡ **Fun fact:** VS Code + Spotify
+### 🔭 **Projetos atuais:** 
+Desenvolvendo a aplicação *Scrapbook Digital*, realizando manutenções no *Jamval App* e implementando Docker e segurança na *Nexus Store*.
+
+### 🌱 **Estudando no momento:** 
+Docker, Node.js, React, Laravel, PostgreSQL e Cybersecurity.
+
+### 👯 **Objetivo Profissional:** 
+Buscando minha primeira oportunidade de estágio ou trainee em desenvolvimento de software.
+
+### 🤝 **Foco de Colaboração:** 
+Implementações lógicas e arquitetura de Back-end.
+
+### 💬 **Fale comigo sobre:** 
+TypeScript, Node.js, PostgreSQL, Laravel e React.
+
+### 📫 **Contato:** 
+murilopm44@gmail.com
+
+---
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
