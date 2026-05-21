@@ -32,10 +32,11 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 
 ---
 
-## 💬 Fale comigo sobre:
-*   Construção de APIs com **Node.js** e **Laravel**
-*   Modelagem de dados com **PostgreSQL** e **MySQL**
-*   Autenticação e proteção de rotas (JWT) e **Docker**
+## 🎯 Foco Técnico & Competências
+*   Desenvolvimento de APIs RESTful com **Node.js** e **Laravel**
+*   Modelagem e otimização de bancos de dados (**PostgreSQL** e **MySQL**)
+*   Implementação de mecanismos de autenticação, controle de acesso e proteção de rotas
+*   Containerização e isolamento de ambientes com **Docker**
 
 ---
 
