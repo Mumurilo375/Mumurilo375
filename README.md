@@ -10,25 +10,25 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 
 ## 🛠️ Projetos em Destaque
 
-### [💼 JamVal-App](https://github.com/Mumurilo375/Jamval-App)
+### <a href="https://github.com/Mumurilo375/Jamval-App" target="_blank">💼 JamVal-App</a>
 > **Stack:** React, TypeScript, Node.js, PostgreSQL, Supabase, Vercel
-*   App real para controle de vendas consignadas de um negócio familiar.
-*   Resolve o fluxo de estoque, visitas a clientes, acertos financeiros, valores a receber e gera comprovantes em PDF.
+* App real para controle de vendas consignadas de um negócio familiar.
+* Resolve o fluxo de estoque, visitas a clientes, acertos financeiros, valores a receber e gera comprovantes em PDF.
 
-### [🎨 Scrapbook Digital](https://github.com/Mumurilo375/scrapbook) *(Em Desenvolvimento)*
+### <a href="https://github.com/Mumurilo375/scrapbook" target="_blank">🎨 Scrapbook Digital</a> *(Em Desenvolvimento)*
 > **Stack:** Laravel, React, TypeScript, PostgreSQL, Filament
-*   Plataforma completa para criação e venda de scrapbooks digitais personalizados.
-*   Conta com editor visual no front-end, upload de mídias, painel administrativo e checkout.
+* Plataforma completa para criação e venda de scrapbooks digitais personalizados.
+* Conta com editor visual no front-end, upload de mídias, painel administrativo e checkout.
 
-### 🎮 Nexus Store ( [Backend](https://github.com/Mumurilo375/Backend-Nexus) | [Frontend](https://github.com/Mumurilo375/Frontend-Nexus) )
+### 🎮 Nexus Store ( <a href="https://github.com/Mumurilo375/Backend-Nexus" target="_blank">Backend</a> | <a href="https://github.com/Mumurilo375/Frontend-Nexus" target="_blank">Frontend</a> )
 > **Stack:** React, TypeScript, Node.js, Express, PostgreSQL | *Docker em breve*
-*   E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
-*   **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
+* E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
+* **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
 
-### 🍷 [Reserva Santanna](https://github.com/cardealpauloand/reserva-santana)
+### 🍷 <a href="https://github.com/cardealpauloand/reserva-santana" target="_blank">Reserva Santanna</a>
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
-*   Marketplace acadêmico de vinhos desenvolvido em equipe.
-*   Atuei direto na área administrativa, integração com APIs, dashboard com gráficos e ambiente Docker.
+* Marketplace acadêmico de vinhos desenvolvido em equipe.
+* Atuei direto na área administrativa, integração com APIs, dashboard com gráficos e ambiente Docker.
 
 ---
 
