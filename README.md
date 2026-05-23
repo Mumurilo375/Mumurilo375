@@ -25,7 +25,7 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 *   E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
 *   **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
 
-### 🍷 Reserva Santanna
+### 🍷 [Reserva Santanna](https://github.com/ cardealpauloand/reserva-santana)
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
 *   Marketplace acadêmico de vinhos desenvolvido em equipe.
 *   Atuei direto na área administrativa, integração com APIs, dashboard com gráficos e ambiente Docker.
