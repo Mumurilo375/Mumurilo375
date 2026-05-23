@@ -20,12 +20,12 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 *   Plataforma completa para criação e venda de scrapbooks digitais personalizados.
 *   Conta com editor visual no front-end, upload de mídias, painel administrativo e checkout.
 
-### 🎮 Nexus Store ( [backend](https://github.com/Mumurilo375/Backend-Nexus) | [frontend](https://github.com/Mumurilo375/Frontend-Nexus) )
+### 🎮 Nexus Store ( [Backend](https://github.com/Mumurilo375/Backend-Nexus) | [Frontend](https://github.com/Mumurilo375/Frontend-Nexus) )
 > **Stack:** React, TypeScript, Node.js, Express, PostgreSQL | *Docker em breve*
 *   E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
 *   **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
 
-### 🍷 [Reserva Santanna](https://github.com/ cardealpauloand/reserva-santana)
+### 🍷 [Reserva Santanna](https://github.com/cardealpauloand/reserva-santana)
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
 *   Marketplace acadêmico de vinhos desenvolvido em equipe.
 *   Atuei direto na área administrativa, integração com APIs, dashboard com gráficos e ambiente Docker.
