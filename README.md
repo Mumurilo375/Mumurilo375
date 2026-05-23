@@ -15,12 +15,12 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 *   App real para controle de vendas consignadas de um negócio familiar.
 *   Resolve o fluxo de estoque, visitas a clientes, acertos financeiros, valores a receber e gera comprovantes em PDF.
 
-### [🎨 Scrapbook Digital](https://github.com/Mumurilo375/Scrapbook) *(Em Desenvolvimento)*
+### [🎨 Scrapbook Digital](https://github.com/Mumurilo375/scrapbook) *(Em Desenvolvimento)*
 > **Stack:** Laravel, React, TypeScript, PostgreSQL, Filament
 *   Plataforma completa para criação e venda de scrapbooks digitais personalizados.
 *   Conta com editor visual no front-end, upload de mídias, painel administrativo e checkout.
 
-### 🎮 Nexus Store ( [backend]((https://github.com/Mumurilo375/Backend-Nexus) | [frontend]((https://github.com/Mumurilo375/Frontend-Nexus)) )
+### 🎮 Nexus Store ( [backend](https://github.com/Mumurilo375/Backend-Nexus) | [frontend](https://github.com/Mumurilo375/Frontend-Nexus) )
 > **Stack:** React, TypeScript, Node.js, Express, PostgreSQL | *Docker em breve*
 *   E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
 *   **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
