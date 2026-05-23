@@ -10,7 +10,7 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 
 ## 🛠️ Projetos em Destaque
 
-### [💼 JamVal-App](/Jamval-App)
+### [💼 JamVal-App](https://github.com/Mumurilo375/Jamval-App)
 > **Stack:** React, TypeScript, Node.js, PostgreSQL, Supabase, Vercel
 *   App real para controle de vendas consignadas de um negócio familiar.
 *   Resolve o fluxo de estoque, visitas a clientes, acertos financeiros, valores a receber e gera comprovantes em PDF.
