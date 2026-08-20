@@ -10,33 +10,64 @@ Atualmente, estou atrás da minha primeira vaga de **Estágio ou Trainee** para 
 
 ## 🛠️ Projetos em Destaque
 
-### <a href="https://github.com/Mumurilo375/Jamval-App" target="_blank">💼 JamVal-App</a>
-> **Stack:** React, TypeScript, Node.js, PostgreSQL, Supabase, Vercel
-* App real para controle de vendas consignadas de um negócio familiar.
-* Resolve o fluxo de estoque, visitas a clientes, acertos financeiros, valores a receber e gera comprovantes em PDF.
+### 💼 [JamVal-App](https://github.com/Mumurilo375/Jamval-App)
+> **Stack:** React, TypeScript, Node.js, PostgreSQL, Prisma
 
-### <a href="https://github.com/Mumurilo375/scrapbook" target="_blank">🎨 Scrapbook Digital</a> *(Em Desenvolvimento)*
-> **Stack:** Laravel, React, TypeScript, PostgreSQL, Filament
-* Plataforma completa para criação e venda de scrapbooks digitais personalizados.
-* Conta com editor visual no front-end, upload de mídias, painel administrativo e checkout.
+Aplicação full stack desenvolvida para apoiar um negócio familiar no controle de vendas consignadas.
 
-### 🎮 Nexus Store ( <a href="https://github.com/Mumurilo375/Backend-Nexus" target="_blank">Backend</a> | <a href="https://github.com/Mumurilo375/Frontend-Nexus" target="_blank">Frontend</a> )
-> **Stack:** React, TypeScript, Node.js, Express, PostgreSQL | *Docker em breve*
-* E-commerce de chaves (keys) de jogos com API REST do zero e autenticação via JWT.
-* **Foco atual:** Adicionando containerização com Docker e auditoria de segurança para a faculdade neste trimestre.
+- Gestão de clientes, visitas, estoque, pagamentos e valores a receber.
+- Controle de reposição de produtos e acertos financeiros.
+- Geração de comprovantes em PDF e dashboard financeiro.
 
-### 🍷 <a href="https://github.com/cardealpauloand/reserva-santana" target="_blank">Reserva Santanna</a>
+---
+
+### 🎮 [Nexus Store](https://github.com/Mumurilo375/nexusFull)
+> **Stack:** React, React Native, TypeScript, Node.js, PostgreSQL, Jest, Playwright, Docker, Nginx
+
+Plataforma acadêmica para comércio de chaves digitais de jogos, composta por aplicações web e mobile integradas à mesma API REST.
+
+- Autenticação JWT, catálogo, carrinho, checkout, pedidos e entrega de keys.
+- Painel administrativo para gerenciamento da plataforma.
+- Aplicativo mobile desenvolvido com React Native e Expo.
+- Testes automatizados com Jest e Playwright.
+- Ambiente conteinerizado com Docker e Nginx.
+
+---
+
+### 🍷 [Reserva Santanna](https://github.com/cardealpauloand/reserva-santana)
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
-* Marketplace acadêmico de vinhos desenvolvido em equipe.
-* Atuei direto na área administrativa, integração com APIs, dashboard com gráficos e ambiente Docker.
+
+Marketplace acadêmico de vinhos desenvolvido em equipe.
+
+- Área administrativa e gerenciamento de produtos.
+- Dashboard com gráficos e indicadores (KPIs).
+- Integração entre front-end, API e banco de dados.
+- Ambiente de desenvolvimento utilizando Docker.
+
+---
+
+### 🎨 [Scrapbook Digital](https://github.com/Mumurilo375/scrapbook) *(Em desenvolvimento)*
+> **Stack:** Laravel, React, TypeScript, PostgreSQL, Redis
+
+Plataforma para criação e venda de scrapbooks digitais personalizados.
+
+- Editor visual e upload de mídias.
+- Templates e personalização de scrapbooks.
+- Checkout interno e publicação por link ou QR Code.
+- Painel administrativo e métricas.
 
 ---
 
 ## 🎯 Foco Técnico & Competências
-*   Desenvolvimento de APIs RESTful com **Node.js** e **Laravel**
-*   Modelagem e otimização de bancos de dados (**PostgreSQL** e **MySQL**)
-*   Implementação de mecanismos de autenticação, controle de acesso e proteção de rotas
-*   Containerização e isolamento de ambientes com **Docker**
+
+- Desenvolvimento front-end com **React, TypeScript e Tailwind CSS**
+- Desenvolvimento de APIs REST com **Node.js, Express e Laravel**
+- Integração entre **front-end, back-end e bancos de dados**
+- Bancos de dados relacionais com **PostgreSQL e MySQL**
+- Containerização de aplicações com **Docker e Docker Compose**
+- Testes automatizados com **Jest e Playwright**
+- Versionamento de código com **Git e GitHub**
+- Desenvolvimento mobile com **React Native e Expo** *(em aprendizado)*
 
 ---
 
