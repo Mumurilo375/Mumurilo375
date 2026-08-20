@@ -19,7 +19,6 @@ Aplicação full stack desenvolvida para apoiar um negócio familiar no controle
 - Controle de reposição de produtos e acertos financeiros.
 - Geração de comprovantes em PDF e dashboard financeiro.
 
----
 
 ### 🎮 [Nexus Store](https://github.com/Mumurilo375/nexusFull)
 > **Stack:** React, React Native, TypeScript, Node.js, PostgreSQL, Jest, Playwright, Docker, Nginx
@@ -32,7 +31,6 @@ Plataforma acadêmica para comércio de chaves digitais de jogos, composta por a
 - Testes automatizados com Jest e Playwright.
 - Ambiente conteinerizado com Docker e Nginx.
 
----
 
 ### 🍷 [Reserva Santanna](https://github.com/cardealpauloand/reserva-santana)
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
@@ -44,7 +42,6 @@ Marketplace acadêmico de vinhos desenvolvido em equipe.
 - Integração entre front-end, API e banco de dados.
 - Ambiente de desenvolvimento utilizando Docker.
 
----
 
 ### 🎨 [Scrapbook Digital](https://github.com/Mumurilo375/scrapbook) *(Em desenvolvimento)*
 > **Stack:** Laravel, React, TypeScript, PostgreSQL, Redis
