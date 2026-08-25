@@ -32,7 +32,7 @@ Plataforma acadêmica para comércio de chaves digitais de jogos, composta por a
 - Ambiente conteinerizado com Docker e Nginx.
 
 
-### 🍷 [Reserva Santanna](https://github.com/cardealpauloand/reserva-santana)
+### 🍷 [Reserva Santanna](https://github.com/Mumurilo375/Reserva-Santanna)
 > **Stack:** React, TypeScript, Laravel, PostgreSQL, Docker
 
 Marketplace acadêmico de vinhos desenvolvido em equipe.
