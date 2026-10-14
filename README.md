@@ -34,7 +34,7 @@ problemas reais.
 
 ### 💼 [Jamval App](https://github.com/Mumurilo375/Jamval-App) — solução para uma operação real
 
-**[Demonstração online](https://jamval-frontend.vercel.app/](https://jamval-app-zjpk.vercel.app/)** · Projeto individual
+**[Demonstração online](https://jamval-app-zjpk.vercel.app/)** · Projeto individual
 
 Sistema full stack criado para substituir controles em papel de uma pequena operação
 familiar de vendas em consignação.
