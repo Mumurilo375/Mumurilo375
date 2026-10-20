@@ -11,7 +11,7 @@
 <p>
   <a href="mailto:murilopm44@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/murilo-pereira-macedo-a0b017313/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1sK4IngOjgMro3epGL1h1esHgTBXBgPlP/view?usp=sharing"><img alt="Currículo" src="https://img.shields.io/badge/Currículo-Visualizar-2E7D32?style=flat-square&logo=googledrive&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1zmF3C96tJsjskjLlX_QVNYPXn6jBIE7Q/view?usp=drive_link"><img alt="Currículo" src="https://img.shields.io/badge/Currículo-Visualizar-2E7D32?style=flat-square&logo=googledrive&logoColor=white" /></a>
 </p>
 
 </div>
